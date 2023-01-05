@@ -4,7 +4,7 @@
 <svg
    height="1024"
    width="1024"
-   sodipodi:docname="_u0019_arrowdown.svg"
+   sodipodi:docname="_u0019_endofmedium-arrowdown.svg"
    version="1.1"
    id="svg4375"
    viewBox="0 0 1024 1024"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="181.72644"
-     inkscape:cy="699.32861"
+     inkscape:zoom="1"
+     inkscape:cx="510"
+     inkscape:cy="488.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -304,6 +304,6 @@
      inkscape:label="Layer 1"
      style="display:inline"><path
        style="fill:#000000"
-       d="M 0,613.19474 C 223.60388,888.697 273.07389,888.24385 500,614.4 l -176,0 V 204.8 H 174 v 409.6 z"
+       d="m 0,563.4 c 200,277.54085 305.04839,276.5067 500,0 V 512.2 L 324,513 V 153.8 H 174 V 513 L 0,512 Z"
        id="path9369"
-       sodipodi:nodetypes="ccccccc" /></g></svg>
+       sodipodi:nodetypes="ccccccccc" /></g></svg>
