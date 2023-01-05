@@ -4,7 +4,7 @@
 <svg
    height="1024"
    width="1024"
-   sodipodi:docname="_u0049_I.svg"
+   sodipodi:docname="_u006F_o.svg"
    version="1.1"
    id="svg4375"
    viewBox="0 0 1024 1024"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="221"
-     inkscape:cy="516.5"
+     inkscape:cx="636"
+     inkscape:cy="566.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -279,6 +279,12 @@
        id="guide615"
        inkscape:locked="true"
        inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="-100,972.8"
+       orientation="0,1"
+       id="guide9421"
+       inkscape:locked="true"
+       inkscape:label=""
        inkscape:color="rgb(0,134,229)" /></sodipodi:namedview><defs
      id="defs4"><linearGradient
        id="linearGradient8000"
@@ -297,7 +303,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      style="display:inline"><path
-       style="display:inline;fill:#000000;stroke-width:1.03697"
-       d="m 200,819.2 -200,0 V 102.4 l 200,0 z"
-       id="path10220"
-       sodipodi:nodetypes="ccccc" /></g></svg>
+       id="path13163"
+       style="display:inline;fill:#000000;stroke-width:0.768654"
+       d="M 300,409.6 H 200 L 150,460 v 205.6 l 50,51.2 h 100 l 50,-51.2 V 460 Z M 249,306.4 c 173.07692,0 250,79.41914 250,258.38104 C 499,739.74893 422.07692,818.4 249,818.4 75.92308,818.4 -1,739.74893 -1,561.70873 0,382.81914 76.92308,307.2 249,306.4 Z"
+       sodipodi:nodetypes="cccccccccccccc" /></g></svg>

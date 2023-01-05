@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="654.5"
-     inkscape:cy="565.5"
+     inkscape:cx="655.5"
+     inkscape:cy="566.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -304,6 +304,6 @@
      inkscape:label="Layer 1"
      style="display:inline"><path
        style="display:inline;fill:#000000"
-       d="M 0,102.4 H 150 V 480 l 82,0 218.38478,-172.8 99.61522,0 v 77.27868 L 350,540.45126 550,738.0132 V 819.2 l -100,0 -218,-224.8 -82,0 V 819.2 H 0 Z"
+       d="M 0,102.4 H 150 V 480 l 50,0 L 418.38478,307.2 550,307.2 v 77.27868 L 350,540.45126 550,738.0132 V 819.2 l -132,0 -218,-224.8 -50,0 V 819.2 H 0 Z"
        id="path25748"
        sodipodi:nodetypes="cccccccccccccccc" /></g></svg>

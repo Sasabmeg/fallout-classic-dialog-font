@@ -4,7 +4,7 @@
 <svg
    height="1024"
    width="1024"
-   sodipodi:docname="_u0049_I.svg"
+   sodipodi:docname="_u007C_bar.svg"
    version="1.1"
    id="svg4375"
    viewBox="0 0 1024 1024"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="221"
-     inkscape:cy="516.5"
+     inkscape:cx="589"
+     inkscape:cy="484.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -279,6 +279,12 @@
        id="guide615"
        inkscape:locked="true"
        inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="-100,972.8"
+       orientation="0,1"
+       id="guide9421"
+       inkscape:locked="true"
+       inkscape:label=""
        inkscape:color="rgb(0,134,229)" /></sodipodi:namedview><defs
      id="defs4"><linearGradient
        id="linearGradient8000"
@@ -297,7 +303,6 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      style="display:inline"><path
-       style="display:inline;fill:#000000;stroke-width:1.03697"
-       d="m 200,819.2 -200,0 V 102.4 l 200,0 z"
-       id="path10220"
-       sodipodi:nodetypes="ccccc" /></g></svg>
+       style="fill:#000000"
+       d="M 0,102.4 H 150 V 1024 H 0 Z"
+       id="path4565" /></g></svg>
