@@ -4,7 +4,7 @@
 <svg
    height="1024"
    width="1024"
-   sodipodi:docname="_u006D_m.svg"
+   sodipodi:docname="_u005F_underscore.svg"
    version="1.1"
    id="svg4375"
    viewBox="0 0 1024 1024"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="636"
-     inkscape:cy="567.5"
+     inkscape:cx="510"
+     inkscape:cy="489.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -303,7 +303,6 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      style="display:inline"><path
-       style="display:inline;fill:#000000"
-       d="m 0,308.2 504,-1.6 c 150,0 198,102.4 196,204.8 V 818.6 H 550 V 459.2 L 500,408.8 H 425 V 818.6 H 275 V 408.8 H 150 V 818.6 L 0,819.2 Z"
-       id="path26483"
-       sodipodi:nodetypes="ccccccccccccccc" /></g></svg>
+       style="fill:#000000"
+       d="M 0,819.2 H 500 V 921.6 H 0 Z"
+       id="path413" /></g></svg>

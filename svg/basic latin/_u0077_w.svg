@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="636"
-     inkscape:cy="566.5"
+     inkscape:cy="567.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -304,6 +304,6 @@
      inkscape:label="Layer 1"
      style="display:inline"><path
        style="display:inline;fill:#000000"
-       d="m 0,817.6 400,0.8 C 550,818.4 602,716 600,613.6 V 306.4 H 474 v 359.4 l -50,50.4 H 374 V 306.4 H 250 V 716.2 H 150 V 306.4 L 0,306.6 Z"
+       d="m 0,817.6 504,1.6 c 150,0 198,-102.4 196,-204.8 V 307.2 H 550 v 359.4 l -50,50.4 -75,0 V 307.2 H 275 V 717 l -125,0 V 307.2 L 0,306.6 Z"
        id="path26483"
        sodipodi:nodetypes="ccccccccccccccc" /></g></svg>
