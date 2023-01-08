@@ -1,5 +1,5 @@
 SplineFontDB: 3.2
-FontName: Fallout-Classic-Dialog
+FontName: Fallout-Classic-Dialog-Regular
 FullName: Fallout Classic Dialog
 FamilyName: Fallout-Classic
 Weight: Regular
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1671241044
-ModificationTime: 1673121645
+ModificationTime: 1673213840
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1229,7 +1229,7 @@ EndChar
 StartChar: m
 Encoding: 109 109 41
 Width: 800
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
