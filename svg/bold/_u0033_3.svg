@@ -4,7 +4,7 @@
 <svg
    height="1024"
    width="1024"
-   sodipodi:docname="_u0078_x.svg"
+   sodipodi:docname="_u0033_3.svg"
    version="1.1"
    id="svg4375"
    viewBox="0 0 1024 1024"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="638"
-     inkscape:cy="514.5"
+     inkscape:cx="690"
+     inkscape:cy="466.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -303,7 +303,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      style="display:inline"><path
-       style="display:inline;fill:#000000"
-       d="m 0,307.2 153.6,0 153.6,152.8 153.6,-152.8 153.6,0 0,51.2 -204.8,204.8 204.8,204.8 0,51.2 -153.6,0 L 307.2,665.6 153.6,819.2 0,819.2 V 768 L 204.8,563.2 0,358.4 Z"
-       id="path29671"
-       sodipodi:nodetypes="ccccccccccccccccc" /></g></svg>
+       style="display:inline;fill:#000000;stroke-width:1.03697"
+       d="M 0,307.2 C 0,152.03276 158.4,102.4 256,102.4 h 102.4 c 102.4,0 256,50.2 256,204.8 0,102.4 -72.4,132.37702 -102.4,152.8 28.41812,11.7742 102.4,52 102.4,154.4 0,153.6 -153.6,204.8 -256,204.8 H 256 C 158.4,819.2 0,768 0,614.4 h 204.8 v 51.2 l 51.2,51.2 h 102.4 l 51.2,-51.2 V 563.2 L 358.4,512 H 204.8 V 409.6 h 153.6 l 51.2,-51.2 V 256 L 358.4,204.8 H 256 L 204.8,256 v 51.2 z"
+       id="path32073"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" /></g></svg>

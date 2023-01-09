@@ -4,7 +4,7 @@
 <svg
    height="1024"
    width="1024"
-   sodipodi:docname="_u0078_x.svg"
+   sodipodi:docname="_u002F_slash.svg"
    version="1.1"
    id="svg4375"
    viewBox="0 0 1024 1024"
@@ -304,6 +304,6 @@
      inkscape:label="Layer 1"
      style="display:inline"><path
        style="display:inline;fill:#000000"
-       d="m 0,307.2 153.6,0 153.6,152.8 153.6,-152.8 153.6,0 0,51.2 -204.8,204.8 204.8,204.8 0,51.2 -153.6,0 L 307.2,665.6 153.6,819.2 0,819.2 V 768 L 204.8,563.2 0,358.4 Z"
-       id="path29671"
-       sodipodi:nodetypes="ccccccccccccccccc" /></g></svg>
+       d="M 102.4,819.2 H 0 V 665.6 L 563.2,102.4 h 153.6 v 102.4 z"
+       id="path14335"
+       sodipodi:nodetypes="ccccccc" /></g></svg>
