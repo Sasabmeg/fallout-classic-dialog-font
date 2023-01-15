@@ -3,7 +3,7 @@ FontName: Fallout-Classic-Dialog-Bold
 FullName: Fallout Classic Dialog
 FamilyName: Fallout-Classic
 Weight: Bold
-Copyright: Copyright (c) 2022, Vitalis Sandor Ung (Slowhand at fodev.net, github.com/Sasabmeg)\n\nThis font is free to use by anyone for any reason. There is no guarantee nor any copyright/copyleft requirements to fufill by using, changing this font in any way towards the creator. You may ditch this copyright message if you create your own version based off this font.\n\nThe font was created from scratch with the aim to help the fan based Fallout Online (Classic) development at fodev.net. There was 10px png version that resembled the original Fallout 1/2 default font, but with higher resolutions this was barely readable, and not suited for releases where there was significant focus on dialogs. Other font were available like the JH_fallout.ttf by Jorio Hatagaya which wasn't the best resemblence and the Fallouty.ttf by "". I didn't want base this font off with an old copyright and recreated the font from scratch, with the aim to include support for most European languages and Cyrillic letters as well. Some similarities may present to predecessor Fallout fonts, but those are because both are based off the Fallout games.\n\nSince the aim was for this font was to resemble the dialog font of Fallout 1/2 games at low size, one should not use this font at 8-10px size in comercial releases to avoid legal issues with current owners of the Fallout franchise, but this copyright does not restrict such use.
+Copyright: Copyright (c) <2022> <Vitalis Sandor Ung (Slowhand at fodev.net, github.com/Sasabmeg)> \n\n(MIT license)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the "Software"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.
 UComments: "2022-12-17: Created with FontForge (http://fontforge.org)"
 Version: 1.00
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1671241044
-ModificationTime: 1673729120
+ModificationTime: 1673811600
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
